@@ -69,7 +69,7 @@ strip.setBrightness(255)
 ### Пример 1: Бегущий огонь
 В этом примере, красный огонёк перемещается по светодиодной ленте по нажатию кнопок.
 
-```block
+```blocks
 input.onButtonPressed(Button.A, function () {
     strip.rotate(-1)
     strip.show()
