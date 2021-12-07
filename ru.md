@@ -1,4 +1,4 @@
-# Neopixel: Урок 2
+# Neopixel: Часть 2
 
 ```package
 core
